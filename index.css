@@ -1,0 +1,227 @@
+body {
+  margin: 0;
+}
+
+div {
+  outline-style: none;
+}
+
+.header {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  height: 56px;
+  background-color: #363A3F
+}
+
+#logo {
+  display: inline-block;
+  margin-left: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  height: 36px;
+  width: 230px;
+  background-image: url("./images/logo-white-small.png");
+  background-size: cover;
+}
+
+.navLinkContainer {
+  position: absolute;
+  float: right;
+  top:0;
+  right: 20px;
+
+}
+
+.navLink {
+  display: inline-block;
+  color: #22a4e0;
+  line-height: 56px;
+  align: top;
+  width: 40px;
+  text-align: center;
+}
+
+.contentContainer {
+  background-color: #147cad;
+  position: fixed;
+  top: 56px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow: auto;
+  padding: 20px;
+}
+
+.contentRow {
+  background-color: #ededed;
+  max-width: 1280px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 0;
+}
+
+.contentCard {
+  vertical-align: top;
+  display: inline-block;
+  max-width: 100%;
+  width: calc(100% - 20px);;
+  height: 500px;
+  white-space: normal;
+  margin: 10px;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+
+@media screen and (min-width: 900px){
+  .contentCard {
+    display: inline-block;
+    max-width: calc(50% - 20px);
+    width: 640px;
+    height: 500px;
+    white-space: normal;
+    margin: 10px;
+    box-sizing: border-box;
+  }
+}
+
+.greenBackground {
+    background-color: green;
+}
+
+.blackBackground {
+      background-color: rgb(0,0,0);
+}
+
+.blueBackground {
+      background-color: #147cad;
+}
+
+.orangeBackground {
+      background-color: orange;
+}
+
+.imageBackground {
+      background-color: white;
+      background-image: url('./images/devLogo-blue.png');
+      background-size: cover;
+}
+
+.cardHeader {
+  width: 100%;
+  font-size: 18px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  background-color: rgba(255, 255, 255, .5);
+}
+
+.cardList {
+  margin: 20px;
+  padding: 20px;
+}
+
+.cardListHeader {
+  text-align: center;
+  font-size: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid rgba(255, 255, 255, .5);
+}
+
+.cardListItem {
+  font-size: 18px;
+  padding: 10px;
+  border-bottom: 1px solid rgba(255, 255, 255, .5);
+}
+
+.cardImage1 {
+  background-image: url("./images/x.png");
+  background-size: cover;
+  width: 100%;
+  height: calc(100% - 41px);
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.cardImage2 {
+  background-image: url("./images/x.png");
+  background-size: cover;
+  width: 100%;
+  height: calc(100% - 41px);
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.progressCardContainer {
+  margin: 20px;
+  padding: 20px;
+}
+
+#progressText {
+  padding: 20px;
+  color: white;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 900;
+}
+
+.progressBarContainer {
+  position: relative;
+  height: 120px;
+}
+
+.progressBarBackground {
+  position: absolute;
+  margin-top: 10px;
+  width: 100%;
+  height: 30px;
+  border-radius: 15px;
+  background-color: #ededed;
+}
+
+#progressBar {
+  position: absolute;
+  margin-top: 10px;
+  width: 10%;
+  height: 30px;
+  border-radius: 15px;
+  background-color: green;
+}
+
+.progressButtons {
+  width: 100%;
+  height: 60px;
+}
+
+.progressButton {
+  display: inline-block;
+  margin-left: calc(25% - 30px);
+  margin-right: calc(25% - 30px);
+  width: 60px;
+  height: 60px;
+  cursor: pointer;
+  font-size: 48px;
+  line-height: 60px;
+  text-align: center;
+}
+
+#progressUp {
+  background-image: url("./images/upArrow.png");
+  background-size: cover;
+}
+
+#progressDown {
+    background-image: url("./images/downArrow.png");
+    background-size: cover;
+}
+
+#progressUp:hover {
+  background-image: url("./images/upArrowDark.png");
+}
+
+#progressDown:hover {
+  background-image: url("./images/downArrowDark.png");
+}

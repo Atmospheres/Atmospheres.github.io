@@ -1,0 +1,837 @@
+Test Name:	TestAddDynamicDataMethod
+Test FullName:	UnitTestProject1.UnitTest1.TestAddDynamicDataMethod
+Test Source:	C:\Users\Bradley\source\repos\UnitTestProject1\UnitTestProject1\UnitTest1.cs : line 12
+Test Outcome:	Failed
+Test Duration:	0:00:00.1958784
+
+Result1 Name:	TestAddDynamicDataMethod
+Result1 Outcome:	Failed
+Result1 Duration:	0:00:00.1001587
+Result1 StackTrace:
+Result1 Message:
+Result1 StandardOutput:
+Result1 StandardError:
+
+Result2 Name:	TestAddDynamicDataMethod ()
+Result2 Outcome:	Failed
+Result2 Duration:	0:00:00.0945151
+Result2 StackTrace:	at UnitTestProject1.UnitTest1.TestAddDynamicDataMethod(Nullable`1 number) in C:\Users\Bradley\source\repos\UnitTestProject1\UnitTestProject1\UnitTest1.cs:line 14
+Result2 Message:	Assert.IsNotNull failed.
+Result2 StandardOutput:
+Result2 StandardError:
+
+Result3 Name:	TestAddDynamicDataMethod ()
+Result3 Outcome:	Failed
+Result3 Duration:	0:00:00.0010472
+Result3 StackTrace:	at UnitTestProject1.UnitTest1.TestAddDynamicDataMethod(Nullable`1 number) in C:\Users\Bradley\source\repos\UnitTestProject1\UnitTestProject1\UnitTest1.cs:line 14
+Result3 Message:	Assert.IsNotNull failed.
+Result3 StandardOutput:
+Result3 StandardError:
+
+Result4 Name:	TestAddDynamicDataMethod (0)
+Result4 Outcome:	Passed
+Result4 Duration:	0:00:00.0000243
+Result4 StackTrace:
+Result4 Message:
+Result4 StandardOutput:
+Result4 StandardError:
+
+Result5 Name:	TestAddDynamicDataMethod (1)
+Result5 Outcome:	Passed
+Result5 Duration:	0:00:00.0000022
+Result5 StackTrace:
+Result5 Message:
+Result5 StandardOutput:
+Result5 StandardError:
+
+Result6 Name:	TestAddDynamicDataMethod (10)
+Result6 Outcome:	Passed
+Result6 Duration:	0:00:00.0000012
+Result6 StackTrace:
+Result6 Message:
+Result6 StandardOutput:
+Result6 StandardError:
+
+Result7 Name:	TestAddDynamicDataMethod (100)
+Result7 Outcome:	Passed
+Result7 Duration:	0:00:00.0000011
+Result7 StackTrace:
+Result7 Message:
+Result7 StandardOutput:
+Result7 StandardError:
+
+Result8 Name:	TestAddDynamicDataMethod (11)
+Result8 Outcome:	Passed
+Result8 Duration:	0:00:00.0000011
+Result8 StackTrace:
+Result8 Message:
+Result8 StandardOutput:
+Result8 StandardError:
+
+Result9 Name:	TestAddDynamicDataMethod (12)
+Result9 Outcome:	Passed
+Result9 Duration:	0:00:00.0000011
+Result9 StackTrace:
+Result9 Message:
+Result9 StandardOutput:
+Result9 StandardError:
+
+Result10 Name:	TestAddDynamicDataMethod (13)
+Result10 Outcome:	Passed
+Result10 Duration:	0:00:00.0000012
+Result10 StackTrace:
+Result10 Message:
+Result10 StandardOutput:
+Result10 StandardError:
+
+Result11 Name:	TestAddDynamicDataMethod (14)
+Result11 Outcome:	Passed
+Result11 Duration:	0:00:00.0000047
+Result11 StackTrace:
+Result11 Message:
+Result11 StandardOutput:
+Result11 StandardError:
+
+Result12 Name:	TestAddDynamicDataMethod (15)
+Result12 Outcome:	Passed
+Result12 Duration:	0:00:00.0000012
+Result12 StackTrace:
+Result12 Message:
+Result12 StandardOutput:
+Result12 StandardError:
+
+Result13 Name:	TestAddDynamicDataMethod (16)
+Result13 Outcome:	Passed
+Result13 Duration:	0:00:00.0000011
+Result13 StackTrace:
+Result13 Message:
+Result13 StandardOutput:
+Result13 StandardError:
+
+Result14 Name:	TestAddDynamicDataMethod (17)
+Result14 Outcome:	Passed
+Result14 Duration:	0:00:00.0000011
+Result14 StackTrace:
+Result14 Message:
+Result14 StandardOutput:
+Result14 StandardError:
+
+Result15 Name:	TestAddDynamicDataMethod (18)
+Result15 Outcome:	Passed
+Result15 Duration:	0:00:00.0000011
+Result15 StackTrace:
+Result15 Message:
+Result15 StandardOutput:
+Result15 StandardError:
+
+Result16 Name:	TestAddDynamicDataMethod (19)
+Result16 Outcome:	Passed
+Result16 Duration:	0:00:00.0000011
+Result16 StackTrace:
+Result16 Message:
+Result16 StandardOutput:
+Result16 StandardError:
+
+Result17 Name:	TestAddDynamicDataMethod (2)
+Result17 Outcome:	Passed
+Result17 Duration:	0:00:00.0000012
+Result17 StackTrace:
+Result17 Message:
+Result17 StandardOutput:
+Result17 StandardError:
+
+Result18 Name:	TestAddDynamicDataMethod (20)
+Result18 Outcome:	Passed
+Result18 Duration:	0:00:00.0000013
+Result18 StackTrace:
+Result18 Message:
+Result18 StandardOutput:
+Result18 StandardError:
+
+Result19 Name:	TestAddDynamicDataMethod (21)
+Result19 Outcome:	Passed
+Result19 Duration:	0:00:00.0000012
+Result19 StackTrace:
+Result19 Message:
+Result19 StandardOutput:
+Result19 StandardError:
+
+Result20 Name:	TestAddDynamicDataMethod (22)
+Result20 Outcome:	Passed
+Result20 Duration:	0:00:00.0000011
+Result20 StackTrace:
+Result20 Message:
+Result20 StandardOutput:
+Result20 StandardError:
+
+Result21 Name:	TestAddDynamicDataMethod (23)
+Result21 Outcome:	Passed
+Result21 Duration:	0:00:00.0000012
+Result21 StackTrace:
+Result21 Message:
+Result21 StandardOutput:
+Result21 StandardError:
+
+Result22 Name:	TestAddDynamicDataMethod (24)
+Result22 Outcome:	Passed
+Result22 Duration:	0:00:00.0000011
+Result22 StackTrace:
+Result22 Message:
+Result22 StandardOutput:
+Result22 StandardError:
+
+Result23 Name:	TestAddDynamicDataMethod (25)
+Result23 Outcome:	Passed
+Result23 Duration:	0:00:00.0000013
+Result23 StackTrace:
+Result23 Message:
+Result23 StandardOutput:
+Result23 StandardError:
+
+Result24 Name:	TestAddDynamicDataMethod (26)
+Result24 Outcome:	Passed
+Result24 Duration:	0:00:00.0000011
+Result24 StackTrace:
+Result24 Message:
+Result24 StandardOutput:
+Result24 StandardError:
+
+Result25 Name:	TestAddDynamicDataMethod (27)
+Result25 Outcome:	Passed
+Result25 Duration:	0:00:00.0000011
+Result25 StackTrace:
+Result25 Message:
+Result25 StandardOutput:
+Result25 StandardError:
+
+Result26 Name:	TestAddDynamicDataMethod (28)
+Result26 Outcome:	Passed
+Result26 Duration:	0:00:00.0000012
+Result26 StackTrace:
+Result26 Message:
+Result26 StandardOutput:
+Result26 StandardError:
+
+Result27 Name:	TestAddDynamicDataMethod (29)
+Result27 Outcome:	Passed
+Result27 Duration:	0:00:00.0000012
+Result27 StackTrace:
+Result27 Message:
+Result27 StandardOutput:
+Result27 StandardError:
+
+Result28 Name:	TestAddDynamicDataMethod (3)
+Result28 Outcome:	Passed
+Result28 Duration:	0:00:00.0000013
+Result28 StackTrace:
+Result28 Message:
+Result28 StandardOutput:
+Result28 StandardError:
+
+Result29 Name:	TestAddDynamicDataMethod (30)
+Result29 Outcome:	Passed
+Result29 Duration:	0:00:00.0000011
+Result29 StackTrace:
+Result29 Message:
+Result29 StandardOutput:
+Result29 StandardError:
+
+Result30 Name:	TestAddDynamicDataMethod (31)
+Result30 Outcome:	Passed
+Result30 Duration:	0:00:00.0000013
+Result30 StackTrace:
+Result30 Message:
+Result30 StandardOutput:
+Result30 StandardError:
+
+Result31 Name:	TestAddDynamicDataMethod (32)
+Result31 Outcome:	Passed
+Result31 Duration:	0:00:00.0000011
+Result31 StackTrace:
+Result31 Message:
+Result31 StandardOutput:
+Result31 StandardError:
+
+Result32 Name:	TestAddDynamicDataMethod (33)
+Result32 Outcome:	Passed
+Result32 Duration:	0:00:00.0000011
+Result32 StackTrace:
+Result32 Message:
+Result32 StandardOutput:
+Result32 StandardError:
+
+Result33 Name:	TestAddDynamicDataMethod (34)
+Result33 Outcome:	Passed
+Result33 Duration:	0:00:00.0000012
+Result33 StackTrace:
+Result33 Message:
+Result33 StandardOutput:
+Result33 StandardError:
+
+Result34 Name:	TestAddDynamicDataMethod (35)
+Result34 Outcome:	Passed
+Result34 Duration:	0:00:00.0000011
+Result34 StackTrace:
+Result34 Message:
+Result34 StandardOutput:
+Result34 StandardError:
+
+Result35 Name:	TestAddDynamicDataMethod (36)
+Result35 Outcome:	Passed
+Result35 Duration:	0:00:00.0000012
+Result35 StackTrace:
+Result35 Message:
+Result35 StandardOutput:
+Result35 StandardError:
+
+Result36 Name:	TestAddDynamicDataMethod (37)
+Result36 Outcome:	Passed
+Result36 Duration:	0:00:00.0000012
+Result36 StackTrace:
+Result36 Message:
+Result36 StandardOutput:
+Result36 StandardError:
+
+Result37 Name:	TestAddDynamicDataMethod (38)
+Result37 Outcome:	Passed
+Result37 Duration:	0:00:00.0000011
+Result37 StackTrace:
+Result37 Message:
+Result37 StandardOutput:
+Result37 StandardError:
+
+Result38 Name:	TestAddDynamicDataMethod (39)
+Result38 Outcome:	Passed
+Result38 Duration:	0:00:00.0000011
+Result38 StackTrace:
+Result38 Message:
+Result38 StandardOutput:
+Result38 StandardError:
+
+Result39 Name:	TestAddDynamicDataMethod (4)
+Result39 Outcome:	Passed
+Result39 Duration:	0:00:00.0000011
+Result39 StackTrace:
+Result39 Message:
+Result39 StandardOutput:
+Result39 StandardError:
+
+Result40 Name:	TestAddDynamicDataMethod (40)
+Result40 Outcome:	Passed
+Result40 Duration:	0:00:00.0000011
+Result40 StackTrace:
+Result40 Message:
+Result40 StandardOutput:
+Result40 StandardError:
+
+Result41 Name:	TestAddDynamicDataMethod (41)
+Result41 Outcome:	Passed
+Result41 Duration:	0:00:00.0000011
+Result41 StackTrace:
+Result41 Message:
+Result41 StandardOutput:
+Result41 StandardError:
+
+Result42 Name:	TestAddDynamicDataMethod (42)
+Result42 Outcome:	Passed
+Result42 Duration:	0:00:00.0000012
+Result42 StackTrace:
+Result42 Message:
+Result42 StandardOutput:
+Result42 StandardError:
+
+Result43 Name:	TestAddDynamicDataMethod (43)
+Result43 Outcome:	Passed
+Result43 Duration:	0:00:00.0000012
+Result43 StackTrace:
+Result43 Message:
+Result43 StandardOutput:
+Result43 StandardError:
+
+Result44 Name:	TestAddDynamicDataMethod (44)
+Result44 Outcome:	Passed
+Result44 Duration:	0:00:00.0000011
+Result44 StackTrace:
+Result44 Message:
+Result44 StandardOutput:
+Result44 StandardError:
+
+Result45 Name:	TestAddDynamicDataMethod (45)
+Result45 Outcome:	Passed
+Result45 Duration:	0:00:00.0000011
+Result45 StackTrace:
+Result45 Message:
+Result45 StandardOutput:
+Result45 StandardError:
+
+Result46 Name:	TestAddDynamicDataMethod (46)
+Result46 Outcome:	Passed
+Result46 Duration:	0:00:00.0000011
+Result46 StackTrace:
+Result46 Message:
+Result46 StandardOutput:
+Result46 StandardError:
+
+Result47 Name:	TestAddDynamicDataMethod (47)
+Result47 Outcome:	Passed
+Result47 Duration:	0:00:00.0000012
+Result47 StackTrace:
+Result47 Message:
+Result47 StandardOutput:
+Result47 StandardError:
+
+Result48 Name:	TestAddDynamicDataMethod (48)
+Result48 Outcome:	Passed
+Result48 Duration:	0:00:00.0000012
+Result48 StackTrace:
+Result48 Message:
+Result48 StandardOutput:
+Result48 StandardError:
+
+Result49 Name:	TestAddDynamicDataMethod (49)
+Result49 Outcome:	Passed
+Result49 Duration:	0:00:00.0000011
+Result49 StackTrace:
+Result49 Message:
+Result49 StandardOutput:
+Result49 StandardError:
+
+Result50 Name:	TestAddDynamicDataMethod (5)
+Result50 Outcome:	Passed
+Result50 Duration:	0:00:00.0000011
+Result50 StackTrace:
+Result50 Message:
+Result50 StandardOutput:
+Result50 StandardError:
+
+Result51 Name:	TestAddDynamicDataMethod (50)
+Result51 Outcome:	Passed
+Result51 Duration:	0:00:00.0000012
+Result51 StackTrace:
+Result51 Message:
+Result51 StandardOutput:
+Result51 StandardError:
+
+Result52 Name:	TestAddDynamicDataMethod (51)
+Result52 Outcome:	Passed
+Result52 Duration:	0:00:00.0000011
+Result52 StackTrace:
+Result52 Message:
+Result52 StandardOutput:
+Result52 StandardError:
+
+Result53 Name:	TestAddDynamicDataMethod (52)
+Result53 Outcome:	Passed
+Result53 Duration:	0:00:00.0000011
+Result53 StackTrace:
+Result53 Message:
+Result53 StandardOutput:
+Result53 StandardError:
+
+Result54 Name:	TestAddDynamicDataMethod (53)
+Result54 Outcome:	Passed
+Result54 Duration:	0:00:00.0000013
+Result54 StackTrace:
+Result54 Message:
+Result54 StandardOutput:
+Result54 StandardError:
+
+Result55 Name:	TestAddDynamicDataMethod (54)
+Result55 Outcome:	Passed
+Result55 Duration:	0:00:00.0000012
+Result55 StackTrace:
+Result55 Message:
+Result55 StandardOutput:
+Result55 StandardError:
+
+Result56 Name:	TestAddDynamicDataMethod (55)
+Result56 Outcome:	Passed
+Result56 Duration:	0:00:00.0000011
+Result56 StackTrace:
+Result56 Message:
+Result56 StandardOutput:
+Result56 StandardError:
+
+Result57 Name:	TestAddDynamicDataMethod (56)
+Result57 Outcome:	Passed
+Result57 Duration:	0:00:00.0000012
+Result57 StackTrace:
+Result57 Message:
+Result57 StandardOutput:
+Result57 StandardError:
+
+Result58 Name:	TestAddDynamicDataMethod (57)
+Result58 Outcome:	Passed
+Result58 Duration:	0:00:00.0000011
+Result58 StackTrace:
+Result58 Message:
+Result58 StandardOutput:
+Result58 StandardError:
+
+Result59 Name:	TestAddDynamicDataMethod (58)
+Result59 Outcome:	Passed
+Result59 Duration:	0:00:00.0000012
+Result59 StackTrace:
+Result59 Message:
+Result59 StandardOutput:
+Result59 StandardError:
+
+Result60 Name:	TestAddDynamicDataMethod (59)
+Result60 Outcome:	Passed
+Result60 Duration:	0:00:00.0000011
+Result60 StackTrace:
+Result60 Message:
+Result60 StandardOutput:
+Result60 StandardError:
+
+Result61 Name:	TestAddDynamicDataMethod (6)
+Result61 Outcome:	Passed
+Result61 Duration:	0:00:00.0000012
+Result61 StackTrace:
+Result61 Message:
+Result61 StandardOutput:
+Result61 StandardError:
+
+Result62 Name:	TestAddDynamicDataMethod (60)
+Result62 Outcome:	Passed
+Result62 Duration:	0:00:00.0000012
+Result62 StackTrace:
+Result62 Message:
+Result62 StandardOutput:
+Result62 StandardError:
+
+Result63 Name:	TestAddDynamicDataMethod (61)
+Result63 Outcome:	Passed
+Result63 Duration:	0:00:00.0000012
+Result63 StackTrace:
+Result63 Message:
+Result63 StandardOutput:
+Result63 StandardError:
+
+Result64 Name:	TestAddDynamicDataMethod (62)
+Result64 Outcome:	Passed
+Result64 Duration:	0:00:00.0000011
+Result64 StackTrace:
+Result64 Message:
+Result64 StandardOutput:
+Result64 StandardError:
+
+Result65 Name:	TestAddDynamicDataMethod (63)
+Result65 Outcome:	Passed
+Result65 Duration:	0:00:00.0000012
+Result65 StackTrace:
+Result65 Message:
+Result65 StandardOutput:
+Result65 StandardError:
+
+Result66 Name:	TestAddDynamicDataMethod (64)
+Result66 Outcome:	Passed
+Result66 Duration:	0:00:00.0000013
+Result66 StackTrace:
+Result66 Message:
+Result66 StandardOutput:
+Result66 StandardError:
+
+Result67 Name:	TestAddDynamicDataMethod (65)
+Result67 Outcome:	Passed
+Result67 Duration:	0:00:00.0000011
+Result67 StackTrace:
+Result67 Message:
+Result67 StandardOutput:
+Result67 StandardError:
+
+Result68 Name:	TestAddDynamicDataMethod (66)
+Result68 Outcome:	Passed
+Result68 Duration:	0:00:00.0000012
+Result68 StackTrace:
+Result68 Message:
+Result68 StandardOutput:
+Result68 StandardError:
+
+Result69 Name:	TestAddDynamicDataMethod (67)
+Result69 Outcome:	Passed
+Result69 Duration:	0:00:00.0000011
+Result69 StackTrace:
+Result69 Message:
+Result69 StandardOutput:
+Result69 StandardError:
+
+Result70 Name:	TestAddDynamicDataMethod (68)
+Result70 Outcome:	Passed
+Result70 Duration:	0:00:00.0000011
+Result70 StackTrace:
+Result70 Message:
+Result70 StandardOutput:
+Result70 StandardError:
+
+Result71 Name:	TestAddDynamicDataMethod (69)
+Result71 Outcome:	Passed
+Result71 Duration:	0:00:00.0000013
+Result71 StackTrace:
+Result71 Message:
+Result71 StandardOutput:
+Result71 StandardError:
+
+Result72 Name:	TestAddDynamicDataMethod (7)
+Result72 Outcome:	Passed
+Result72 Duration:	0:00:00.0000012
+Result72 StackTrace:
+Result72 Message:
+Result72 StandardOutput:
+Result72 StandardError:
+
+Result73 Name:	TestAddDynamicDataMethod (70)
+Result73 Outcome:	Passed
+Result73 Duration:	0:00:00.0000012
+Result73 StackTrace:
+Result73 Message:
+Result73 StandardOutput:
+Result73 StandardError:
+
+Result74 Name:	TestAddDynamicDataMethod (71)
+Result74 Outcome:	Passed
+Result74 Duration:	0:00:00.0000011
+Result74 StackTrace:
+Result74 Message:
+Result74 StandardOutput:
+Result74 StandardError:
+
+Result75 Name:	TestAddDynamicDataMethod (72)
+Result75 Outcome:	Passed
+Result75 Duration:	0:00:00.0000012
+Result75 StackTrace:
+Result75 Message:
+Result75 StandardOutput:
+Result75 StandardError:
+
+Result76 Name:	TestAddDynamicDataMethod (73)
+Result76 Outcome:	Passed
+Result76 Duration:	0:00:00.0000011
+Result76 StackTrace:
+Result76 Message:
+Result76 StandardOutput:
+Result76 StandardError:
+
+Result77 Name:	TestAddDynamicDataMethod (74)
+Result77 Outcome:	Passed
+Result77 Duration:	0:00:00.0000045
+Result77 StackTrace:
+Result77 Message:
+Result77 StandardOutput:
+Result77 StandardError:
+
+Result78 Name:	TestAddDynamicDataMethod (75)
+Result78 Outcome:	Passed
+Result78 Duration:	0:00:00.0000012
+Result78 StackTrace:
+Result78 Message:
+Result78 StandardOutput:
+Result78 StandardError:
+
+Result79 Name:	TestAddDynamicDataMethod (76)
+Result79 Outcome:	Passed
+Result79 Duration:	0:00:00.0000012
+Result79 StackTrace:
+Result79 Message:
+Result79 StandardOutput:
+Result79 StandardError:
+
+Result80 Name:	TestAddDynamicDataMethod (77)
+Result80 Outcome:	Passed
+Result80 Duration:	0:00:00.0000011
+Result80 StackTrace:
+Result80 Message:
+Result80 StandardOutput:
+Result80 StandardError:
+
+Result81 Name:	TestAddDynamicDataMethod (78)
+Result81 Outcome:	Passed
+Result81 Duration:	0:00:00.0000012
+Result81 StackTrace:
+Result81 Message:
+Result81 StandardOutput:
+Result81 StandardError:
+
+Result82 Name:	TestAddDynamicDataMethod (79)
+Result82 Outcome:	Passed
+Result82 Duration:	0:00:00.0000011
+Result82 StackTrace:
+Result82 Message:
+Result82 StandardOutput:
+Result82 StandardError:
+
+Result83 Name:	TestAddDynamicDataMethod (8)
+Result83 Outcome:	Passed
+Result83 Duration:	0:00:00.0000011
+Result83 StackTrace:
+Result83 Message:
+Result83 StandardOutput:
+Result83 StandardError:
+
+Result84 Name:	TestAddDynamicDataMethod (80)
+Result84 Outcome:	Passed
+Result84 Duration:	0:00:00.0000013
+Result84 StackTrace:
+Result84 Message:
+Result84 StandardOutput:
+Result84 StandardError:
+
+Result85 Name:	TestAddDynamicDataMethod (81)
+Result85 Outcome:	Passed
+Result85 Duration:	0:00:00.0000012
+Result85 StackTrace:
+Result85 Message:
+Result85 StandardOutput:
+Result85 StandardError:
+
+Result86 Name:	TestAddDynamicDataMethod (82)
+Result86 Outcome:	Passed
+Result86 Duration:	0:00:00.0000011
+Result86 StackTrace:
+Result86 Message:
+Result86 StandardOutput:
+Result86 StandardError:
+
+Result87 Name:	TestAddDynamicDataMethod (83)
+Result87 Outcome:	Passed
+Result87 Duration:	0:00:00.0000011
+Result87 StackTrace:
+Result87 Message:
+Result87 StandardOutput:
+Result87 StandardError:
+
+Result88 Name:	TestAddDynamicDataMethod (84)
+Result88 Outcome:	Passed
+Result88 Duration:	0:00:00.0000011
+Result88 StackTrace:
+Result88 Message:
+Result88 StandardOutput:
+Result88 StandardError:
+
+Result89 Name:	TestAddDynamicDataMethod (85)
+Result89 Outcome:	Passed
+Result89 Duration:	0:00:00.0000045
+Result89 StackTrace:
+Result89 Message:
+Result89 StandardOutput:
+Result89 StandardError:
+
+Result90 Name:	TestAddDynamicDataMethod (86)
+Result90 Outcome:	Passed
+Result90 Duration:	0:00:00.0000011
+Result90 StackTrace:
+Result90 Message:
+Result90 StandardOutput:
+Result90 StandardError:
+
+Result91 Name:	TestAddDynamicDataMethod (87)
+Result91 Outcome:	Passed
+Result91 Duration:	0:00:00.0000011
+Result91 StackTrace:
+Result91 Message:
+Result91 StandardOutput:
+Result91 StandardError:
+
+Result92 Name:	TestAddDynamicDataMethod (88)
+Result92 Outcome:	Passed
+Result92 Duration:	0:00:00.0000023
+Result92 StackTrace:
+Result92 Message:
+Result92 StandardOutput:
+Result92 StandardError:
+
+Result93 Name:	TestAddDynamicDataMethod (89)
+Result93 Outcome:	Passed
+Result93 Duration:	0:00:00.0000012
+Result93 StackTrace:
+Result93 Message:
+Result93 StandardOutput:
+Result93 StandardError:
+
+Result94 Name:	TestAddDynamicDataMethod (9)
+Result94 Outcome:	Passed
+Result94 Duration:	0:00:00.0000014
+Result94 StackTrace:
+Result94 Message:
+Result94 StandardOutput:
+Result94 StandardError:
+
+Result95 Name:	TestAddDynamicDataMethod (90)
+Result95 Outcome:	Passed
+Result95 Duration:	0:00:00.0000011
+Result95 StackTrace:
+Result95 Message:
+Result95 StandardOutput:
+Result95 StandardError:
+
+Result96 Name:	TestAddDynamicDataMethod (91)
+Result96 Outcome:	Passed
+Result96 Duration:	0:00:00.0000012
+Result96 StackTrace:
+Result96 Message:
+Result96 StandardOutput:
+Result96 StandardError:
+
+Result97 Name:	TestAddDynamicDataMethod (92)
+Result97 Outcome:	Passed
+Result97 Duration:	0:00:00.0000011
+Result97 StackTrace:
+Result97 Message:
+Result97 StandardOutput:
+Result97 StandardError:
+
+Result98 Name:	TestAddDynamicDataMethod (93)
+Result98 Outcome:	Passed
+Result98 Duration:	0:00:00.0000011
+Result98 StackTrace:
+Result98 Message:
+Result98 StandardOutput:
+Result98 StandardError:
+
+Result99 Name:	TestAddDynamicDataMethod (94)
+Result99 Outcome:	Passed
+Result99 Duration:	0:00:00.0000011
+Result99 StackTrace:
+Result99 Message:
+Result99 StandardOutput:
+Result99 StandardError:
+
+Result100 Name:	TestAddDynamicDataMethod (95)
+Result100 Outcome:	Passed
+Result100 Duration:	0:00:00.0000011
+Result100 StackTrace:
+Result100 Message:
+Result100 StandardOutput:
+Result100 StandardError:
+
+Result101 Name:	TestAddDynamicDataMethod (96)
+Result101 Outcome:	Passed
+Result101 Duration:	0:00:00.000006
+Result101 StackTrace:
+Result101 Message:
+Result101 StandardOutput:
+Result101 StandardError:
+
+Result102 Name:	TestAddDynamicDataMethod (97)
+Result102 Outcome:	Passed
+Result102 Duration:	0:00:00.0000014
+Result102 StackTrace:
+Result102 Message:
+Result102 StandardOutput:
+Result102 StandardError:
+
+Result103 Name:	TestAddDynamicDataMethod (98)
+Result103 Outcome:	Passed
+Result103 Duration:	0:00:00.0000011
+Result103 StackTrace:
+Result103 Message:
+Result103 StandardOutput:
+Result103 StandardError:
+
+Result104 Name:	TestAddDynamicDataMethod (99)
+Result104 Outcome:	Passed
+Result104 Duration:	0:00:00.0000011
+Result104 StackTrace:
+Result104 Message:
+Result104 StandardOutput:
+Result104 StandardError:
